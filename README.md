@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java and Spring.
-- 👯 I’m looking for a job in web development.
+- 🌱 I’m currently working on Java and Spring Boot.
+- 👯 I’m currently learning cryptocurrencies.
+- ⚡ Half way to a full-stack engineer 
+- 🔭 Austrian School Economics follower
+- ✨ Good at life, busy with eating, sleeping, reading, playing and learning.
+
